@@ -16,7 +16,6 @@ namespace LibraryApp
         public static int ID { get; set; }
         public static bool Update { get; set; }
         public static string User { get; set; }
-        public static bool Journal { get; set; }
     }
 
 

@@ -216,6 +216,8 @@ namespace LibraryApp.View
             this.Controls.Add(this.authorTextBox);
             this.Controls.Add(this.materialLabel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(800, 379);
+            this.MinimumSize = new System.Drawing.Size(800, 379);
             this.Name = "NewBookForm";
             this.Text = "Новая книга";
             this.ResumeLayout(false);

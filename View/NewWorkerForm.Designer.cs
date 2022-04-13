@@ -193,6 +193,8 @@ namespace LibraryApp.View
             this.Controls.Add(this.nameTextBox);
             this.Controls.Add(this.savelButton);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(408, 509);
+            this.MinimumSize = new System.Drawing.Size(408, 509);
             this.Name = "NewWorkerForm";
             this.Text = "Новый сотрудник";
             this.ResumeLayout(false);

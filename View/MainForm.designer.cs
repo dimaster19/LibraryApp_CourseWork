@@ -113,6 +113,8 @@ namespace LibraryApp.View
             this.Controls.Add(this.showWorkers);
             this.Controls.Add(this.showReaders);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(385, 258);
+            this.MinimumSize = new System.Drawing.Size(385, 258);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "LibraryApp";

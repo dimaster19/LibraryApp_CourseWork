@@ -206,6 +206,8 @@ namespace LibraryApp.View
             this.Controls.Add(this.materialTextBox2);
             this.Controls.Add(this.materialTextBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(839, 369);
+            this.MinimumSize = new System.Drawing.Size(839, 369);
             this.Name = "NewReaderForm";
             this.Text = "Новый читатель";
             ((System.ComponentModel.ISupportInitialize)(this.repositoryBindingSource)).EndInit();
