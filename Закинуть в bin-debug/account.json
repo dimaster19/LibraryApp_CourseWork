@@ -1,0 +1,44 @@
+[
+  {
+    "$id": "1",
+    "Id": 1,
+    "Login": "1",
+    "Password": "1",
+    "Roles": "Admin"
+  },
+  {
+    "$id": "2",
+    "Id": 1135007422,
+    "Login": "123",
+    "Password": "123123123",
+    "Roles": "User"
+  },
+  {
+    "$id": "3",
+    "Id": 769453310,
+    "Login": "1",
+    "Password": "11111111",
+    "Roles": "User"
+  },
+  {
+    "$id": "4",
+    "Id": 1329509174,
+    "Login": "DIMA",
+    "Password": "dima12345",
+    "Roles": "User"
+  },
+  {
+    "$id": "5",
+    "Id": 93560433,
+    "Login": "dmitrypavlikov",
+    "Password": "12345678",
+    "Roles": "User"
+  },
+  {
+    "$id": "6",
+    "Id": 1034897701,
+    "Login": "test",
+    "Password": "test1234",
+    "Roles": "User"
+  }
+]
