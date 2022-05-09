@@ -1,0 +1,34 @@
+[
+  {
+    "$id": "1",
+    "Id": 1,
+    "FirstName": "Alexander",
+    "LastName": "Pavlikov",
+    "ExpYears": "10",
+    "Address": "Artema st."
+  },
+  {
+    "$id": "2",
+    "Id": 2,
+    "FirstName": "Дмитрий",
+    "LastName": "Павликов",
+    "ExpYears": "10",
+    "Address": "Донецк-Матушка"
+  },
+  {
+    "$id": "3",
+    "Id": 5,
+    "FirstName": "Дмитрий",
+    "LastName": "Павликов",
+    "ExpYears": "12",
+    "Address": "Мой дом улица, а комната падик"
+  },
+  {
+    "$id": "4",
+    "Id": 6,
+    "FirstName": "Антонец ",
+    "LastName": "Алексей",
+    "ExpYears": "5",
+    "Address": "г.Донецк, ул.Сигнальная, д.10"
+  }
+]
